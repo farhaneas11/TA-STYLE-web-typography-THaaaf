@@ -1,0 +1,30 @@
+.container {
+    max-width: 90%;
+    padding: 0px 32px;
+ }
+@font-face {
+    font-family: "karla";
+    src: url(karla/static/Karla-Bold.ttf);
+}
+body{font-family: "karla";
+    background-color: khaki;
+    line-height: 20px;word-spacing: 0px;letter-spacing: -1px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: hotpink;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style:dashed ;
+}
+.left {
+    text-align: left;
+}
+.right {
+   text-align: right;
+}
